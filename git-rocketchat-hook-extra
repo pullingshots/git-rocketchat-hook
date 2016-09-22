@@ -1,6 +1,10 @@
 #!/bin/sh
 #
-# Copyright (c) 2007 Andy Parkins
+# Based on post-receive-email hook by Andy Parkins
+#
+# Settings needed to enable rocket chat notifications:
+#  git config hooks.rocketchat.webhook-url "https://rocket.chat/hooks/..."
+#
 #
 # An example hook script to mail out commit update information.  This hook
 # sends emails listing new revisions to the repository introduced by the
