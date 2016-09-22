@@ -1,2 +1,2 @@
 # git-rocketchat-hook
-Git Post Receive hook for Rocket.Chat
+Git Post Receive hooks for Rocket.Chat
